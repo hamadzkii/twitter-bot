@@ -69,3 +69,5 @@ while True:
         send_telegram_alert(f"⚠️ Exception during check: {e}")
 
     time.sleep(15)  # 1-minute interval
+
+# k\just testing a change in dev branch
